@@ -1,6 +1,6 @@
 ## Bilal Asser - BilalsGituation 
 
-💬 Ask me about arranging a project or personalised training and support in programming and biological, statistical and computational aspects of NGS Bioinformatics and Machine Learning. 
+💬 Ask me about arranging a project or personalised training and support in programming, NGS Bioinformatics, or Machine Learning. 
 
 - 📫 You can reach me at [asserbbioinfoprojects@gmail.com](mailto:asserbbioinfoprojects@gmail.com)
 
