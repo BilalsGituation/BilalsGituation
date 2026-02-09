@@ -7,8 +7,8 @@
 I enjoy working on 💻 and teaching 👨‍🏫: 
 - Single-cell :microbe: and spatial :microscope: transcriptomics in Seurat, Bioconductor and Python.
   - This includes integrative, multimodal and tumour microenvironment-related analysis
-- Short and long read Bulk RNASeq analysis :dna:
-  - This includes Differential expression and Variant call analysis of data from mammals and viruses
+- Short and long read Bulk RNASeq analysis :dna: from mammalian 🐭 and pathogenic 😷 samples
+  - This includes Differential expression analysis 📊 and Variant analysis :dna:
 - Academic and technical reading and writing 📑
 - Computational and biological contexts of the above material
 
