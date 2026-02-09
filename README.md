@@ -12,7 +12,7 @@ I enjoy working on 💻 and teaching 👨‍🏫:
 - Academic and technical reading and writing 📑
 - Computational and biological contexts of the above material
 
-Image in profile picture depicting Spatial Transcriptomics analysis is from [Seurat vignettes and used under MIT License](https://satijalab.org/seurat/license). Copyright (c) 2021 Seurat authors. Not affiliated with or endorsed by the Seurat project or Satija lab.
+Image in profile picture depicting plot from omics analysis is from [Seurat vignettes and used under MIT License](https://satijalab.org/seurat/license). Copyright (c) 2021 Seurat authors. Not affiliated with or endorsed by the Seurat project or Satija lab.
 
 <!--
 **BilalsGituation/BilalsGituation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
