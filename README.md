@@ -1,4 +1,4 @@
-## BilalsGituation 
+## Bilal Asser - BilalsGituation 
 
 💬 Ask me about arranging a project or personalised training and support in programming and biological, statistical and computational aspects of NGS Bioinformatics and Machine Learning. 
 
