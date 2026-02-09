@@ -2,7 +2,7 @@
 
 💬 Ask me about arranging a project or personalised training and support in programming and biological, statistical and computational aspects of NGS Bioinformatics and Machine Learning. 
 
-- 📫 You can reach me at [asserbbioinfoprojects@gmail.com](mailto:asserbbioinfoprojects@gmail.com) to arrange 
+- 📫 You can reach me at [asserbbioinfoprojects@gmail.com](mailto:asserbbioinfoprojects@gmail.com)
 
 I enjoy working on 💻 and teaching 👨‍🏫: 
 - Single-cell :microbe: and spatial :microscope: transcriptomics in Seurat, Bioconductor and Python.
